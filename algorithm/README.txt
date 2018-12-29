@@ -1,1 +1,1 @@
-https://github.com/avinashn/programminginpython.com/blob/master/
+https://github.com/avinashn/programminginpython.com
